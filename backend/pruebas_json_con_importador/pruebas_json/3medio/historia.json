@@ -1,0 +1,216 @@
+[
+  {
+    "titulo": "Prueba 1: Historia 3medio",
+    "curso": "3º Medio",
+    "asignatura": "Historia",
+    "preguntas": [
+      {
+        "enunciado": "¿Pregunta 1 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 2 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 3 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 4 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 5 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 6 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 7 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 8 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 9 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 10 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      }
+    ]
+  },
+  {
+    "titulo": "Prueba 2: Historia 3medio",
+    "curso": "3º Medio",
+    "asignatura": "Historia",
+    "preguntas": [
+      {
+        "enunciado": "¿Pregunta 1 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 2 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 3 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 4 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 5 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 6 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 7 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 8 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 9 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 10 de Historia?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      }
+    ]
+  }
+]

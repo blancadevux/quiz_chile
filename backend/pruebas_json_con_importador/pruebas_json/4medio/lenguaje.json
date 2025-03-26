@@ -1,0 +1,216 @@
+[
+  {
+    "titulo": "Prueba 1: Lenguaje 4medio",
+    "curso": "4º Medio",
+    "asignatura": "Lenguaje",
+    "preguntas": [
+      {
+        "enunciado": "¿Pregunta 1 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 2 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 3 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 4 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 5 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 6 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 7 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 8 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 9 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 10 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      }
+    ]
+  },
+  {
+    "titulo": "Prueba 2: Lenguaje 4medio",
+    "curso": "4º Medio",
+    "asignatura": "Lenguaje",
+    "preguntas": [
+      {
+        "enunciado": "¿Pregunta 1 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 2 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 3 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 4 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 5 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 6 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 7 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 8 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 9 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "enunciado": "¿Pregunta 10 de Lenguaje?",
+        "alternativas": [
+          "A. Alternativa A",
+          "B. Alternativa B",
+          "C. Alternativa C",
+          "D. Alternativa D"
+        ],
+        "respuesta_correcta": "A"
+      }
+    ]
+  }
+]
