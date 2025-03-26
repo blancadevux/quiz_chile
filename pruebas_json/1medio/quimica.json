@@ -1,0 +1,630 @@
+[
+  {
+    "titulo": "Química: 1. Reacciones Químicas",
+    "curso": "1º Medio",
+    "asignatura": "Química",
+    "preguntas": [
+      {
+        "enunciado": "¿Qué es una reacción química?",
+        "alternativas": [
+          "a) Cambio físico de la materia",
+          "b) Cambio químico donde se forman nuevas sustancias",
+          "c) Mezcla de sustancias sin transformación",
+          "d) Cambio de estado de agregación"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué nombre reciben las sustancias iniciales en una reacción química?",
+        "alternativas": [
+          "a) Productos",
+          "b) Reactantes",
+          "c) Catalizadores",
+          "d) Soluciones"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes es una manifestación de una reacción química?",
+        "alternativas": [
+          "a) Cambio de forma",
+          "b) Formación de precipitados",
+          "c) Aumento de volumen",
+          "d) Fusión"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué teoría explica que las partículas deben chocar con la orientación adecuada para que ocurra una reacción?",
+        "alternativas": [
+          "a) Teoría del complejo activado",
+          "b) Teoría de las colisiones",
+          "c) Teoría cuántica",
+          "d) Teoría cinética"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué tipo de reacción libera energía en forma de calor?",
+        "alternativas": [
+          "a) Endotérmica",
+          "b) Exotérmica",
+          "c) Catalítica",
+          "d) Reversible"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué factor aumenta la velocidad de una reacción al incrementar el número de colisiones efectivas?",
+        "alternativas": [
+          "a) Disminución de temperatura",
+          "b) Aumento de concentración",
+          "c) Reducción de presión",
+          "d) Ausencia de catalizadores"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué símbolo se utiliza en una ecuación química para indicar un precipitado?",
+        "alternativas": [
+          "a) →",
+          "b) ↑",
+          "c) ↓",
+          "d) Δ"
+        ],
+        "respuesta_correcta": "c"
+      },
+      {
+        "enunciado": "¿Qué tipo de reacción ocurre cuando se forma un único compuesto a partir de sustancias simples?",
+        "alternativas": [
+          "a) Descomposición",
+          "b) Sustitución simple",
+          "c) Síntesis",
+          "d) Combustión"
+        ],
+        "respuesta_correcta": "c"
+      },
+      {
+        "enunciado": "¿Qué proceso en seres vivos descompone sustancias complejas para obtener energía?",
+        "alternativas": [
+          "a) Fotosíntesis",
+          "b) Fermentación",
+          "c) Respiración celular",
+          "d) Anabolismo"
+        ],
+        "respuesta_correcta": "c"
+      },
+      {
+        "enunciado": "¿Qué gas se produce en la combustión completa de metano?",
+        "alternativas": [
+          "a) Monóxido de carbono",
+          "b) Dióxido de carbono",
+          "c) Oxígeno",
+          "d) Nitrógeno"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué ley establece que la masa no se crea ni se destruye en una reacción química?",
+        "alternativas": [
+          "a) Ley de Boyle",
+          "b) Ley de Lavoisier",
+          "c) Ley de Charles",
+          "d) Ley de Dalton"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué elemento se oxida en la reacción: 2Na + Cl₂ → 2NaCl?",
+        "alternativas": [
+          "a) Cloro",
+          "b) Sodio",
+          "c) Ambos",
+          "d) Ninguno"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué proceso industrial utiliza hidrógeno verde para obtener cobre?",
+        "alternativas": [
+          "a) Electrólisis",
+          "b) Tostación oxidante",
+          "c) Reducción",
+          "d) Fermentación"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué compuesto protege la Tierra de la radiación ultravioleta?",
+        "alternativas": [
+          "a) CO₂",
+          "b) O₃",
+          "c) H₂O",
+          "d) CH₄"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué acción ayuda a reducir la contaminación marina?",
+        "alternativas": [
+          "a) Usar más plásticos",
+          "b) Participar en limpiezas de playas",
+          "c) Quemar basura",
+          "d) Ignorar los residuos"
+        ],
+        "respuesta_correcta": "b"
+      }
+    ]
+  },
+  {
+    "titulo": "Química: 2. Estequiometría y Soluciones",
+    "curso": "1º Medio",
+    "asignatura": "Química",
+    "preguntas": [
+      {
+        "enunciado": "¿Qué representa el coeficiente estequiométrico en una ecuación química?",
+        "alternativas": [
+          "a) Masa de los reactantes",
+          "b) Número de moléculas que participan",
+          "c) Volumen de los productos",
+          "d) Energía liberada"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué unidad se utiliza para expresar la cantidad de sustancia en química?",
+        "alternativas": [
+          "a) Gramo",
+          "b) Mol",
+          "c) Litro",
+          "d) Kelvin"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué ley establece que los elementos se combinan en proporciones definidas?",
+        "alternativas": [
+          "a) Ley de conservación de la masa",
+          "b) Ley de proporciones definidas",
+          "c) Ley de Avogadro",
+          "d) Ley de Boyle"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué método se usa para balancear ecuaciones químicas?",
+        "alternativas": [
+          "a) Tanteo",
+          "b) Descomposición",
+          "c) Sustitución",
+          "d) Combustión"
+        ],
+        "respuesta_correcta": "a"
+      },
+      {
+        "enunciado": "¿Qué es la estequiometría?",
+        "alternativas": [
+          "a) Estudio de la velocidad de reacción",
+          "b) Relación cuantitativa entre reactantes y productos",
+          "c) Análisis de catalizadores",
+          "d) Medición de la energía de activación"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué componente de una solución está en mayor cantidad?",
+        "alternativas": [
+          "a) Soluto",
+          "b) Solvente",
+          "c) Precipitado",
+          "d) Catalizador"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué tipo de solución tiene una baja concentración de soluto?",
+        "alternativas": [
+          "a) Concentrada",
+          "b) Diluida",
+          "c) Saturada",
+          "d) Sobresaturada"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué método separa componentes de una solución por diferencia de puntos de ebullición?",
+        "alternativas": [
+          "a) Filtración",
+          "b) Decantación",
+          "c) Destilación",
+          "d) Cristalización"
+        ],
+        "respuesta_correcta": "c"
+      },
+      {
+        "enunciado": "¿Qué unidad física expresa la concentración como masa de soluto por volumen de solución?",
+        "alternativas": [
+          "a) Molaridad",
+          "b) Molalidad",
+          "c) Porcentaje masa/volumen",
+          "d) Partes por millón"
+        ],
+        "respuesta_correcta": "c"
+      },
+      {
+        "enunciado": "¿Qué tipo de reacción ocurre cuando un ácido reacciona con una base?",
+        "alternativas": [
+          "a) Oxidación-reducción",
+          "b) Neutralización",
+          "c) Combustión",
+          "d) Síntesis"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué compuesto orgánico contiene el grupo funcional -OH?",
+        "alternativas": [
+          "a) Alcano",
+          "b) Alcohol",
+          "c) Ácido carboxílico",
+          "d) Cetona"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué hidrocarburo tiene solo enlaces simples?",
+        "alternativas": [
+          "a) Alcano",
+          "b) Alqueno",
+          "c) Alquino",
+          "d) Aromático"
+        ],
+        "respuesta_correcta": "a"
+      },
+      {
+        "enunciado": "¿Qué proceso industrial produce carbonato de litio?",
+        "alternativas": [
+          "a) Electrólisis",
+          "b) Evaporación de salmueras",
+          "c) Fermentación",
+          "d) Combustión"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué impacto tiene la lluvia ácida en el medioambiente?",
+        "alternativas": [
+          "a) Aumenta la capa de ozono",
+          "b) Daña suelos y cuerpos de agua",
+          "c) Mejora la calidad del aire",
+          "d) Reduce el efecto invernadero"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué acción promueve la sostenibilidad del agua?",
+        "alternativas": [
+          "a) Desperdiciar agua",
+          "b) Usar productos biodegradables",
+          "c) Contaminar ríos",
+          "d) Ignorar políticas públicas"
+        ],
+        "respuesta_correcta": "b"
+      }
+    ]
+  },
+  {
+    "titulo": "Química: 3. Química Orgánica y Grupos Funcionales",
+    "curso": "1º Medio",
+    "asignatura": "Química",
+    "preguntas": [
+      {
+        "enunciado": "¿Qué elemento es fundamental en los compuestos orgánicos?",
+        "alternativas": [
+          "a) Oxígeno",
+          "b) Carbono",
+          "c) Nitrógeno",
+          "d) Hidrógeno"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué tipo de enlace predomina en los compuestos orgánicos?",
+        "alternativas": [
+          "a) Iónico",
+          "b) Covalente",
+          "c) Metálico",
+          "d) Puente de hidrógeno"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué grupo funcional caracteriza a los alcoholes?",
+        "alternativas": [
+          "a) -COOH",
+          "b) -OH",
+          "c) -CHO",
+          "d) -CO-"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué tipo de hidrocarburo contiene al menos un doble enlace carbono-carbono?",
+        "alternativas": [
+          "a) Alcano",
+          "b) Alqueno",
+          "c) Alquino",
+          "d) Aromático"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Cuál es el compuesto orgánico más simple?",
+        "alternativas": [
+          "a) Etanol",
+          "b) Metano",
+          "c) Eteno",
+          "d) Benceno"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué compuesto se utiliza como anticongelante en vehículos?",
+        "alternativas": [
+          "a) Etanol",
+          "b) Metanol",
+          "c) Etilenglicol",
+          "d) Acetona"
+        ],
+        "respuesta_correcta": "c"
+      },
+      {
+        "enunciado": "¿Qué tipo de reacción convierte un alqueno en un alcano?",
+        "alternativas": [
+          "a) Combustión",
+          "b) Hidrogenación",
+          "c) Halogenación",
+          "d) Oxidación"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué compuesto es responsable del olor a vinagre?",
+        "alternativas": [
+          "a) Ácido acético",
+          "b) Ácido fórmico",
+          "c) Etanol",
+          "d) Formaldehído"
+        ],
+        "respuesta_correcta": "a"
+      },
+      {
+        "enunciado": "¿Qué polímero se obtiene a partir del etileno?",
+        "alternativas": [
+          "a) PVC",
+          "b) Polietileno",
+          "c) Nylon",
+          "d) Teflón"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué grupo funcional está presente en los aldehídos?",
+        "alternativas": [
+          "a) -OH",
+          "b) -COOH",
+          "c) -CHO",
+          "d) -CO-"
+        ],
+        "respuesta_correcta": "c"
+      },
+      {
+        "enunciado": "¿Qué compuesto se usa en la fabricación de plásticos como el PET?",
+        "alternativas": [
+          "a) Etanol",
+          "b) Etileno",
+          "c) Ácido tereftálico",
+          "d) Metanol"
+        ],
+        "respuesta_correcta": "c"
+      },
+      {
+        "enunciado": "¿Qué tipo de isómeros tienen la misma fórmula molecular pero diferente disposición espacial?",
+        "alternativas": [
+          "a) Estructurales",
+          "b) Geométricos",
+          "c) Funcionales",
+          "d) De cadena"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué proceso industrial convierte hidrocarburos en plásticos?",
+        "alternativas": [
+          "a) Fermentación",
+          "b) Polimerización",
+          "c) Electrólisis",
+          "d) Destilación"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué compuesto orgánico es esencial en la respiración celular?",
+        "alternativas": [
+          "a) Dióxido de carbono",
+          "b) Glucosa",
+          "c) Agua",
+          "d) Oxígeno"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué impacto ambiental tienen los plásticos no biodegradables?",
+        "alternativas": [
+          "a) Reducen la contaminación",
+          "b) Acumulan residuos en ecosistemas",
+          "c) Mejoran la fertilidad del suelo",
+          "d) Disminuyen el efecto invernadero"
+        ],
+        "respuesta_correcta": "b"
+      }
+    ]
+  },
+  {
+    "titulo": "Química: 4. Reacciones en la Tierra y la Industria",
+    "curso": "1º Medio",
+    "asignatura": "Química",
+    "preguntas": [
+      {
+        "enunciado": "¿Qué gas protege la Tierra de la radiación UV?",
+        "alternativas": [
+          "a) CO₂",
+          "b) O₃",
+          "c) CH₄",
+          "d) N₂"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué fenómeno ocurre cuando el CO₂ reacciona con el agua de los océanos?",
+        "alternativas": [
+          "a) Eutrofización",
+          "b) Acidificación",
+          "c) Lluvia ácida",
+          "d) Combustión"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué mineral se utiliza para obtener litio en Chile?",
+        "alternativas": [
+          "a) Cuprita",
+          "b) Salmuera",
+          "c) Calcita",
+          "d) Hematita"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué proceso industrial purifica el cobre mediante electricidad?",
+        "alternativas": [
+          "a) Tostación",
+          "b) Electrorrefinación",
+          "c) Lixiviación",
+          "d) Fermentación"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué compuesto se forma en la lluvia ácida por emisiones de SO₂?",
+        "alternativas": [
+          "a) Ácido nítrico",
+          "b) Ácido sulfúrico",
+          "c) Ácido clorhídrico",
+          "d) Ácido carbónico"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué método se usa para separar el litio de las salmueras?",
+        "alternativas": [
+          "a) Destilación",
+          "b) Evaporación solar",
+          "c) Filtración",
+          "d) Cristalización"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué metal se obtiene principalmente de la calcopirita?",
+        "alternativas": [
+          "a) Hierro",
+          "b) Cobre",
+          "c) Aluminio",
+          "d) Plata"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué gas de efecto invernadero se libera en la combustión de carbón?",
+        "alternativas": [
+          "a) Oxígeno",
+          "b) Nitrógeno",
+          "c) Dióxido de carbono",
+          "d) Hidrógeno"
+        ],
+        "respuesta_correcta": "c"
+      },
+      {
+        "enunciado": "¿Qué institución chilena investiga baterías de litio?",
+        "alternativas": [
+          "a) CONAF",
+          "b) CELIMIN",
+          "c) SQM",
+          "d) ENAP"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué proceso natural forma carbonato de calcio en la litósfera?",
+        "alternativas": [
+          "a) Combustión",
+          "b) Precipitación química",
+          "c) Electrólisis",
+          "d) Fotólisis"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué tecnología usa hidrógeno verde en la producción de cobre?",
+        "alternativas": [
+          "a) Tostación oxidante",
+          "b) Reducción con H₂",
+          "c) Lixiviación bacteriana",
+          "d) Fundición"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué compuesto es un subproducto de la tostación de sulfuros?",
+        "alternativas": [
+          "a) CO₂",
+          "b) SO₂",
+          "c) NH₃",
+          "d) H₂O"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué acción humana es responsable del 99,7% de los incendios forestales en Chile?",
+        "alternativas": [
+          "a) Actividad volcánica",
+          "b) Sequías naturales",
+          "c) Negligencia o intencionalidad",
+          "d) Rayos"
+        ],
+        "respuesta_correcta": "c"
+      },
+      {
+        "enunciado": "¿Qué organismo regula la limpieza de playas en Chile?",
+        "alternativas": [
+          "a) MMA",
+          "b) DIRECTEMAR",
+          "c) CONAF",
+          "d) SERNAC"
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "enunciado": "¿Qué ODS está relacionado con la protección de los océanos?",
+        "alternativas": [
+          "a) ODS 6",
+          "b) ODS 13",
+          "c) ODS 14",
+          "d) ODS 15"
+        ],
+        "respuesta_correcta": "c"
+      }
+    ]
+  }
+]

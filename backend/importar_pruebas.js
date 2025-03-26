@@ -3,7 +3,7 @@ import fetch from 'node-fetch';
 import fs from 'fs';
 import path from 'path';
 
-const baseDir = './pruebas_json';
+const baseDir = '../pruebas_json';
 
 const recorrerYSubir = async () => {
   const niveles = fs.readdirSync(baseDir);
